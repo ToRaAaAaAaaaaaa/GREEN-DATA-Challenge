@@ -78,7 +78,7 @@ GridSearchCVによるXGBoostの最適化
 
 ## ファイル構成
 ```
-├── green_data (2).ipynb  # メインノートブック
+├── green_data.ipynb  # メインノートブック
 ├── data/
 │   ├── train.csv
 │   └── test.csv
